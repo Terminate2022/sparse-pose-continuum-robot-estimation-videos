@@ -6,7 +6,7 @@ This repository provides four supplementary videos for the manuscript:
 
 The videos show the reconstructed shapes of the continuum robot under sparse pose measurements. Three videos correspond to simulations, and one video corresponds to experiments. Each video includes results using one pose measurement and two pose measurements, together with comparisons with benchmark methods.
 
-## Methods used in the videos
+## Benchmark methods used in the videos
 
 The benchmark methods include the spatial estimator based on SE(3) proposed by Lilge et al. [1], denoted as **S**, and the spatiotemporal estimator proposed by Teetaert et al. [2], denoted as **S+T**. 
 
