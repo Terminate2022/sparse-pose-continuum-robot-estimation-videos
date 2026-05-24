@@ -2,7 +2,7 @@
 
 This repository provides four supplementary videos for the manuscript:
 
-**Factor-Graph-Based State Estimation for Continuum Robots Under Sparse Pose Measurements**
+**Factor-Graph-Based State Estimation for Continuum Robots under Sparse Pose Measurements**
 
 The videos show the reconstructed shapes of the continuum robot under sparse pose measurements. Three videos correspond to simulations, and one video corresponds to experiments. Each video includes results using one pose measurement and two pose measurements, together with comparisons with benchmark methods.
 
